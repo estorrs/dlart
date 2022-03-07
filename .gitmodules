@@ -1,0 +1,3 @@
+[submodule "submodules/diffvg"]
+	path = submodules/diffvg
+	url = https://github.com/BachiLi/diffvg
